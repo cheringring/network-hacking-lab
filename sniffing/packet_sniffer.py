@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""
+
 고급 패킷 스니퍼
 이 스크립트는 Scapy를 사용하여 네트워크 패킷을 캡처하고 분석합니다.
 HTTP, DNS, FTP 등 다양한 프로토콜의 패킷을 분석하고 민감한 정보를 추출합니다.
-"""
 
+"""
 import argparse
 import time
 import os
@@ -17,6 +17,7 @@ import re
 import json
 import signal
 import sys
+"""
 
 # 전역 변수
 captured_packets = []
