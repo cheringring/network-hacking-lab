@@ -332,14 +332,3 @@ sudo arp -s 192.168.56.1 00:11:22:33:44:55
 
 ### 학습 성과
 이번 실습을 통해 네트워크 보안의 중요성과 실제 해킹 기법의 작동 원리를 깊이 이해할 수 있었습니다. 특히 맞춤형 도구 개발을 통해 스크립팅 능력을 향상시키고, 실제 공격 및 방어 메커니즘을 체험함으로써 보안 전문가로서의 역량을 키울 수 있었습니다.
-
----
-
-## 참고 문헌
-
-1. Lyon, G. (2009). Nmap Network Scanning: The Official Nmap Project Guide to Network Discovery and Security Scanning. Nmap Project.
-2. Sanders, C. (2017). Practical Packet Analysis: Using Wireshark to Solve Real-World Network Problems. No Starch Press.
-3. Bullock, J., & Parker, J. (2017). Wireshark for Security Professionals: Using Wireshark and the Metasploit Framework. Wiley.
-4. Offensive Security. (2023). Kali Linux Documentation. https://www.kali.org/docs/
-5. Scapy Documentation. https://scapy.readthedocs.io/
-6. OWASP. (2023). OWASP Web Security Testing Guide. https://owasp.org/www-project-web-security-testing-guide/
